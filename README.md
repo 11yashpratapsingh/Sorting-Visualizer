@@ -28,8 +28,8 @@ The design of the app was largely inspired by Google's [Material Design Guidelin
 
 The app is responsive, meaning it works across a variety of screen sizes and dimensions.
 
-![Sort Visualizer - regular (light) mode](https://i.imgur.com/wYIircd.png)
+![Sort Visualizer - regular (light) mode]
 
 The app has a switch for turning on dark mode.
 
-![Sort Visualizer - dark mode](https://i.imgur.com/HwwiX7X.png)
+![Sort Visualizer - dark mode]
